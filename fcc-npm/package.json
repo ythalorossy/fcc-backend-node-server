@@ -1,0 +1,13 @@
+{
+  "name": "@ythalorossy/fcc",
+  "version": "1.0.2",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Ythalo Rossy Saldanha Lira",
+  "license": "ISC",
+  "repository": "",
+  "dependencies": {}
+}
